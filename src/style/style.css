@@ -1,0 +1,40 @@
+
+.App {
+    text-align: center;
+}
+
+.book{
+    border: 2px solid black;
+}
+
+
+.infoBook{
+    font-weight: bolder;
+}
+
+#title{
+    font-size: xx-large;
+    font-family: "Arial Rounded MT Bold" ,sans-serif;
+    background-color: black;
+    opacity: 1;
+    
+}
+#infosup:hover{
+    border: black;
+}
+
+#background{
+    border-radius: 5px;
+    background-attachment: fixed;
+}
+
+body{
+    background: url(old-books-436498_1920.jpg);
+}
+#error{
+    text-align: center;
+}
+#img{
+    box-shadow: 8px 8px 12px #aaa;
+    opacity: 1 ;
+}
